@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><sut validators="">
+    <dir>
+        <class>automation.allot.com.sut.Parameters</class>
+        <directory2>D:\саша\123\data2</directory2>
+        <directory1>D:\саша\123\data1</directory1>
+        <files index="0">
+            <class>automation.allot.com.sut.FileParam</class>
+            <fileName>01 Max BW for VC.properties</fileName>
+            <fileDescription/>
+        </files>
+        <files index="1">
+            <class>automation.allot.com.sut.FileParam</class>
+            <fileName>01 Max BW for VC.xml</fileName>
+        </files>
+        <files index="2">
+            <class>automation.allot.com.sut.FileParam</class>
+            <fileName>hosts</fileName>
+        </files>
+        <files index="3">
+            <class>automation.allot.com.sut.FileParam</class>
+            <fileName>ips1.txt</fileName>
+            <fileDescription/>
+        </files>
+        <files index="4">
+            <class>automation.allot.com.sut.FileParam</class>
+            <fileName>ips2.txt</fileName>
+            <fileDescription/>
+        </files>
+    </dir>
+</sut>
